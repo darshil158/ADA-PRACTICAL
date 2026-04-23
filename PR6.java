@@ -1,5 +1,5 @@
 import java.util.*;
-class linearSearch {
+class PR6 {
     public static int linearSearch(int[] arr, int tar, int n) {
         for (int i = 0; i < n; i++) {
             if (arr[i] == tar) return i;
