@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class Main {
+public class PR3 {
 
     public static void insertElements(int arr[], int num) {
         Random rand = new Random();
