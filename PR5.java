@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class Main {
+public class PR5 {
 
     public static void insertElements(int arr[], int num) {
         Random rand = new Random();
@@ -18,7 +18,6 @@ public class Main {
         }
     }
 
-    // Partition function
     public static int partition(int arr[], int low, int high) {
         int pivot = arr[high];
         int i = low - 1;
@@ -36,7 +35,6 @@ public class Main {
         return i + 1;
     }
 
-    // Quick Sort
     public static void quickSort(int arr[], int low, int high) {
         if (low < high) {
             int pi = partition(arr, low, high);
