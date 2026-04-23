@@ -1,4 +1,4 @@
-public class Prim {
+public class PR7 {
     public static void main(String[] args) {
         int V = 5;
         
