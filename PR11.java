@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class MatrixChain {
+public class PR11 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
