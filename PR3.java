@@ -18,7 +18,6 @@ public class PR3 {
         }
     }
 
-    // Insertion Sort
     public static void insertionSort(int arr[], int num) {
 
         for (int i = 1; i < num; i++) {
